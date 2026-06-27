@@ -1,2 +1,2 @@
 # java-program
-my java learning and prictice programs
+my java learning and practice programs
